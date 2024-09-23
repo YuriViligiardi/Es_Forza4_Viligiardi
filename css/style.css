@@ -6,3 +6,12 @@ table{
 h3{
     width: 10%;
 }
+
+p{  
+    margin: auto;
+    width: 25%;
+    height: 25px;
+    border: 5px white solid;
+    border-radius: 100%;
+    background-color: white;
+}
